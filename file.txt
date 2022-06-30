@@ -3,3 +3,4 @@ lawrence is learning git.
 This learning is to enable me understand DevOps.
 We are learning how to add update to a new branch called develop from the local repo.
 Thanks be to God!
+Nice one.
